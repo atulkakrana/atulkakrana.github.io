@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Atul Kakrana / Site Title"
+title                    : "Atul Kakrana / Computational Scientist"
 title_separator          : "-"
-name                     : &name "Atul Kaktana"
-description              : &description "personal description"
+name                     : &name "Atul Kakrana"
+description              : &description "Site Title"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -83,10 +83,10 @@ author:
   name             : "Atul Kakrana"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Philadelphia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=atul+kakrana"
+  googlescholar    : "https://scholar.google.com/citations?user=virwGJEAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,9 +94,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "atulkakrana"
   foursquare       :
-  github           : "academicpages"
+  github           : "atulkakrana"
   google_plus      :
   keybase          :
   instagram        :
