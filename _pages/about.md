@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-**Atul Kakrana** is a Data Scientist in the Health and Life Sciences (Operations) at [Elsevier](https://www.elsevier.com/) (Philadelphia). His work empowers the Elsevier's [Clinical Solutions](https://www.elsevier.com/clinical-solutions) and [Life Science's R&D](https://www.elsevier.com/rd-solutions/pharma-and-life-sciences-solutions) buisness. 
+I am a Computational Scientist in the Life Sciences (Operations) at [Elsevier](https://www.elsevier.com/) (Philadelphia). My work empowers the Elsevier's [Life Science's R&D](https://www.elsevier.com/rd-solutions/pharma-and-life-sciences-solutions) and [Clinical Solutions](https://www.elsevier.com/clinical-solutions) business. 
 
-His previous works explored the unknown regions of genomes discovering genes that do not code proteins but function in other important ways, and the known regions of genome to identify genes that underlie human genetic diseases.   
+In my Ph.D., I developed new computational methods to (a) discover new forms of RNAs and RNA genes from largely unexplored regions of the genomes and (b) identify genes associated with human genetic diseases. To learn more about my work, please see my publications on [Google Scholar](https://scholar.google.com/citations?user=virwGJEAAAAJ&hl=en)
 
-His research identified a [new class of RNAs](https://genome.cshlp.org/content/28/9/1333.short) in the genome and shed light in their unique biogenesis pathways. His work on rare diseases guides clinical geneticists to identify genetic variations that cause human genetic diseases. 
-
-Atul received his Ph.D. from the Department of Computer and Information Sciences at [UDel](https://www.udel.edu/). He is a recipient of the ‘Competitive Fellow Doctoral Fellowship’ and ‘Provost Distinguished Graduate Fellowship’ for his research in Bioinformatics and Systems Biology. Atul also holds a Bachelor’s degree in Biotechnology and a Master’s degree in Biochemistry. His research featured in reputed public news outlets. 
+I received my Ph.D. from the Department of Computer and Information Sciences at [UDel](https://www.udel.edu/). I have received multiple awards and grants to support my research, including the 'Provost Distinguished Graduate Fellowship.' I hold a Master's degree in Biochemistry and a Bachelor's degree in Biotechnology. My research is cited in reputed public news outlets, [NIH director's blog](https://directorsblog.nih.gov/2018/05/17/snapshots-of-life-lens-crafting/) and high impact research journals. 
 
 
 
