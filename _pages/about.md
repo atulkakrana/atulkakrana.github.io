@@ -10,7 +10,7 @@ redirect_from:
 
 
 <br/><br/>
-[Atul](https://www.linkedin.com/in/atulkakrana/) is a startegic leader & AI/ML scientist at Zifo. He leads the innovation, industry partnerships, and business strategy for the North America region. 
+[Atul](https://www.linkedin.com/in/atulkakrana/) is a strategic leader & AI/ML scientist at Zifo. He leads the innovation, industry partnerships, and business strategy for the North America region. 
 
 Atul has experience spanning 16 years in Life & Health Sciences. He worked with [Elsevier](https://www.elsevier.com/) to develop AI-based predictive solutions & NLP-based information extraction systems for [Life Science's R&D](https://www.elsevier.com/rd-solutions/pharma-and-life-sciences-solutions) and [Clinical Solutions](https://www.elsevier.com/clinical-solutions) business. 
 
