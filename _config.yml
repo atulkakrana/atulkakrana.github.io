@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Atul Kakrana / Computational Scientist"
+title                    : "Atul Kakrana / Computer Scientist"
 title_separator          : "-"
 name                     : &name "Atul Kakrana"
 description              : &description "Site Title"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Atul Kakrana"
   avatar           : "profile.png"
-  bio              : "Computational Scientist - NLU, Bioinformatics, and AI"
+  bio              : "Computer Scientist - AI, Digital Biology, NLP & Quantum Computing
   location         : "Philadelphia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=atul+kakrana"
