@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+
+1. [Area Of Expertise](#area-of-expertise)
+2. [Industry Experience](#industry-experience)
+3. [Research Experience](#previous-experience)
+4. [Education](#education)
+
+
 ## Area Of Expertise
 **ML, Deep Learning, Generative AI, & Data Science for Health, Clinical, & Life Science Research.**
 * **Decision Sciences**: Predictive Modeling, Agentic-AI, Knowledge Graphs, etc.
@@ -19,7 +26,8 @@ redirect_from:
 
 <br>
 
-## Work experience [2018 - Current]
+## Industry Experience 
+[2018 - Current]
 ### Head of Data Science – North America, Zifo
 *Zifo is global technology consulting firm for Biopharma & Health industry*
 
@@ -58,7 +66,8 @@ redirect_from:
 
 <br>
 
-## Previous Experience [2007-2011]
+## Previous Experience 
+[2007-2017]
 ### Graduate Researcher - Delaware Biotechnology Institute, DE (USA)
 * Developed computational, statistics, machine-learning for genomic research
 * Identified 15+ biomarkers for genetic diseases and discovered a new class of RNAs
