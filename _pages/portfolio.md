@@ -44,7 +44,9 @@ The recent work from my group demonstrated the efficacy of a generative adversar
 
 ![Pistoia Alliance](../Pistoia-Alliance.png)
 
-Extending the 
+Extending on our "generative biologics" work, we are exploring methods design new drug candidates computationally, speeding up the drug discovery process. We focus on protein and chemical structure to improve virtual screening and create entirely new molecules. 
+
+![In Silico Drug Development](../GENE_Program.png)
 
 ## NLP & Language Modeling 
 
