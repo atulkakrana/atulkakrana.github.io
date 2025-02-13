@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<br/>
+For a meeting, please book a 30-min, one-on-one slot [here](https://calendly.com/kakrana-1so0/30min).
 
-For a meeting, please book [30-min, One-on-One slot](https://calendly.com/kakrana-1so0/30min).
-
-<br/><br/>
+<br/>
 [Atul](https://www.linkedin.com/in/atulkakrana/) is a strategic leader & AI/ML scientist at Zifo. He leads the innovation, industry partnerships, and business strategy for the North America region. 
 
 Atul has experience spanning 16 years in Life & Health Sciences. He worked with [Elsevier](https://www.elsevier.com/) to develop AI-based predictive solutions & NLP-based information extraction systems for [Life Science's R&D](https://www.elsevier.com/rd-solutions/pharma-and-life-sciences-solutions) and [Clinical Solutions](https://www.elsevier.com/clinical-solutions) business. 
