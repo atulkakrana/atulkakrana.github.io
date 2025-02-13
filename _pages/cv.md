@@ -10,14 +10,16 @@ redirect_from:
 {% include base_path %}
 
 ### Table Of Contents
-1. [Industry Experience](#industry-experience)
-2. [Research Experience](#research-experience)
-3. [Education](#education)
+1. [Expertise](#expertise)
+2. [Industry Experience](#industry-experience)
+3. [Research Experience](#research-experience)
+4. [Education](#education)
 <br>
 
-## Competancies
+## Expertise
 **Leadership**
-Strategic Planning, Project Management, Result-Oriented, Stakeholder Manager, Leadership Styles (Servant, Democratic & Coach)
+* Strategic Planning, Project & Stakeholder Managment, 
+* Leadership Styles (Servant, Democratic & Coach)
 
 **AI/ML**
 * Generative AI & Biology (LLMs, RAG, Agents, LangChain, BioNemo, ESM, and more)
@@ -44,7 +46,7 @@ Strategic Planning, Project Management, Result-Oriented, Stakeholder Manager, Le
 ### Senior Data Scientist III – Life Sciences, Elsevier (Global)
 *Elsevier is a global information analytics business specializing in science and health*
   * Led global AI/ML teams, supported executive leadership & product managers 
-  * Developed patient safety reporting solutions, >40% operational efficiency for Embase(https://www.embase.com/)
+  * Developed patient safety reporting solutions, >40% operational efficiency for [Embase](https://www.embase.com/)
   * Developed LLM-based information extraction solutions for drug disovery, safety, & efficacy decisions; now part of [Pharmapendium](https://www.elsevier.com/products/pharmapendium) & [Embiology](https://www.elsevier.com/en-in/products/embiology)
   * Chaired enterprise-wide AI/ML guild to establish: 
     * AI/ML lifecycle, governance, & MLOPS recommendations,
@@ -54,7 +56,7 @@ Strategic Planning, Project Management, Result-Oriented, Stakeholder Manager, Le
 *Elsevier is a global information analytics business specializing in science and health*
   * Helped build the North America team of clinical experts & AI/ML scientists
   * Developed Computer Vision-based solutions for diagnostic pathways & decision support
-  * Developed predictive solutions to:
+  * Developed predictive solutions for [ClinicalPath](https://www.elsevier.com/products/clinicalpath):
     * identify "patients-at-risk"; improved effectiveness by up to 80%
     * diagnose patient conditions to minimize clinical errors; increased correct diagnoses >26%
   * Developed NLP & Deep Learning systems for:
