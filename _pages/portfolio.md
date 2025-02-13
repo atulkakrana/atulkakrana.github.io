@@ -21,7 +21,8 @@ The majority of research (2018-2024) is done as part of the AIML scientist role 
 * **Information Extraction**: NLP, LLMs, Explainable AI, etc.
 * **Data Management Frameworks**: data products, fabric, etc.
 * **Data & AIML Governance** 
-<br>
+
+<hr style="border: 2px solid black;">
 
 ## Digital Biology 
 
