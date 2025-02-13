@@ -15,7 +15,7 @@ author_profile: true
 5. [Data & MLOPs](#data-&-mlops)
 <br>
 <br>
-<hr style="border: 2px solid grey;">
+<hr style="border: 2px solid #aab7b8;">
 
 ## Area Of Expertise
 **ML, Deep Learning, Generative AI, & Data Science for Health, Clinical, & Life Science Research.**
@@ -26,21 +26,20 @@ author_profile: true
 * **Data & AIML Governance** 
 
 The majority of research (2018-2024) is done as part of the AIML scientist role in the industry. Before 2017, the research was done in academic and as part of non-profit research institutes and is available on my [Google Scholar](https://scholar.google.com/citations?user=virwGJEAAAAJ&hl=en&authuser=1) 
+<br>
+<br>
+<hr style="border: 2px solid #aab7b8;">
 
-{% for post in site.portfolio %}
+<!-- {% for post in site.portfolio %}
   {% include archive-single.html %}
-{% endfor %}
-
-
-
-
-<!-- 
-<hr style="border: 2px solid black;">
+{% endfor %} -->
 
 ## Digital Biology 
+Analyze, simulate, & manipulate biological data using machine learning, and artificial intelligence to understand biological processes, develop new drugs, and create models of diseases. 
+
 
 ## NLP & Language Modeling 
 
 ## Decision Science 
 
-## Computational Biology -->
+## Computational Biology
