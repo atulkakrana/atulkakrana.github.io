@@ -25,7 +25,7 @@ author_profile: true
 * **Data Management Frameworks**: data products, fabric, etc.
 * **Data & AIML Governance** 
 
-The majority of research (2018-2024) is done as part of the AIML scientist role in the industry. Before 2017, the research was done in academic and as part of non-profit research institutes and is available on my [Google Scholar](https://scholar.google.com/citations?user=virwGJEAAAAJ&hl=en&authuser=1) 
+The majority of my research (from 2018-2024) is done as part of innovation for ELsevier & Zifo. Before 2017, the research was done in academic and as part of non-profit research institutes and is available on my [Google Scholar](https://scholar.google.com/citations?user=virwGJEAAAAJ&hl=en&authuser=1) 
 <br>
 <br>
 <hr style="border: 2px solid #aab7b8;">
@@ -42,7 +42,9 @@ My research group focuses on the convergence of computational biology, data scie
 
 The recent work from my group demonstrated the efficacy of a generative adversarial network (GAN) architecture, wherein a discriminator and generator are jointly trained to model the sequence-function landscape of anti-cancer peptides. This approach enables the de novo synthesis of candidate peptides exhibiting in silico predicted anti-cancer activity. This research contributes to the rapidly developing field of generative biologics, which integrates foundational biomolecular modeling with high-throughput robotic synthesis and screening to accelerate the discovery of therapeutic candidates. I presented our findings at the Pistoia Alliance (2024) meeting of biopharma executives. 
 
-![Pistoia Alliance](<Screenshot 2025-02-13 at 5.18.38 PM.png>)
+![Pistoia Alliance](<../_portfolio/_images/Screenshot 2025-02-13 at 5.25.08 PM.png>)
+
+Extending the 
 
 ## NLP & Language Modeling 
 
