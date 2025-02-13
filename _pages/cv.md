@@ -12,7 +12,7 @@ redirect_from:
 ### Table Of Contents
 1. [Area Of Expertise](#area-of-expertise)
 2. [Industry Experience](#industry-experience)
-3. [Research Experience](#previous-experience)
+3. [Research Experience](#research-experience)
 4. [Education](#education)
 
 
