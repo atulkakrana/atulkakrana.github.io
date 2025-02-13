@@ -26,6 +26,7 @@ redirect_from:
 * General AI/ML (TensorFlow, PyTorch, AWS SageMaker, OpenCV, and more)
 * Data Engineering (Data Products, Observability, and more)
 * Health Informatics (FHIR, OMOP, Epic, Practicefusion & more)
+
 <hr style="border: 2px solid black;">
 
 ## Industry Experience
@@ -62,7 +63,8 @@ redirect_from:
   * Developed NLP & Deep Learning systems for:
     * medical coding & information extraction from unstructured clinical data; 
     * built a Health Knowledge graph, now part of Elsevier’s [ClinicalKey](https://www.clinicalkey.com/)
-<br>
+
+<hr style="border: 2px solid black;">
 
 ----
 ## Research Experience 
@@ -80,7 +82,8 @@ redirect_from:
 ### Information Technology Officer at National Institute of Plant Genome Research (IND)
 * Managed IT team & infrastructure to support institute-wide research projects
 * Served as staff Bioinformatics lead to develop research grants 
-<br>
+
+<hr style="border: 2px solid black;">
 
 ----
 ## Education
