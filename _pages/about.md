@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+For a meeting, please book [30-min, One-on-One slot](https://calendly.com/kakrana-1so0/30min).
 
 <br/><br/>
 [Atul](https://www.linkedin.com/in/atulkakrana/) is a strategic leader & AI/ML scientist at Zifo. He leads the innovation, industry partnerships, and business strategy for the North America region. 
