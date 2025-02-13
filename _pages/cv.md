@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Area Of Expertise
-======
+## Area Of Expertise
 ML, Deep Learning, Generative AI, & Data Science for Health, Clinical, & Life Science Research.
 * Decision Sciences: Predictive Modeling, Agentic-AI, Knowledge Graphs, etc.
 * Digital Biology: Generative biology, *In Silico* Discovery, Biomolecular Modeling, etc.
@@ -20,9 +19,8 @@ ML, Deep Learning, Generative AI, & Data Science for Health, Clinical, & Life Sc
 
 <br><br>
 
-Work experience
-======
-### Head of Data Science – North America, Zifo
+## Work experience
+#### Head of Data Science – North America, Zifo
 *Zifo is global technology consulting firm for Biopharma & Health industry*
 
 * Responsible for innovation, industry partnerships, business strategy & relationships
@@ -36,7 +34,7 @@ Work experience
 
 <br>
 
-### Senior Data Scientist III – Life Sciences, Elsevier (Global)
+#### Senior Data Scientist III – Life Sciences, Elsevier (Global)
 *Elsevier is a global information analytics business specializing in science and health*
   * Led global AI/ML teams, supported executive leadership & product managers 
   * Developed ML-based patient safety reporting solution, working with regulatory agencies for compliance; >40% operational efficiency & now part of Elsevier’s Embase 
@@ -47,7 +45,7 @@ Work experience
 
 <br>
 
-### Data Scientist & Manager - Health Analytics, Elsevier, PA (USA)
+#### Data Scientist & Manager - Health Analytics, Elsevier, PA (USA)
 *Elsevier is a global information analytics business specializing in science and health*
   * Helped build the North America team, and led clinical experts & AI/ML scientists
   * Developed NLP & DL systems for medical coding & information extraction from unstructured clinical data; build a Health Knowledge graph, now part of Elsevier’s ClinicalKey
@@ -56,11 +54,10 @@ Work experience
     * to identify patients-at-risk in emergency & critical care setting; improved effectiveness by up to 80%
     * to diagnose, stratify patients, improve health equity & minimize clinical diagnostic errors; increased correct diagnoses >26%
 
-<br><br>
+<br>
 
-Previous Experience
-======
-### Graduate Researcher - Delaware Biotechnology Institute, DE (USA)
+## Previous Experience
+#### Graduate Researcher - Delaware Biotechnology Institute, DE (USA)
 * Developed computational, statistics, machine-learning for genomic research
 * Identified 15+ biomarkers for genetic diseases and discovered a new class of RNAs
 * Led or managed projects, including with teams from Stanford and UPenn
@@ -68,29 +65,26 @@ Previous Experience
 
 <br>
 
-### Project Incharge & Senior Researcher at National Institute for Biotechnology (IND)
+#### Project Incharge & Senior Researcher at National Institute for Biotechnology (IND)
 * Led research plans, execution for for World Bank-funded project (USD > 5M)
 * Developed Bioinformatic solution & discovered new biomarkers fulfilling the objectives
 * Recieved two patents for my research 
 
 <br>
 
-### Information Technology Officer at National Institute of Plant Genome Research (IND)
+#### Information Technology Officer at National Institute of Plant Genome Research (IND)
 * Managed IT team & infrastructure to support institute-wide research projects
 * Served as staff Bioinformatics lead to develop research grants 
 
-<br><br>
+<br>
 
-Education
-======
+## Education
 * B.S. in Biotechnology, Bangalore University (India), 2005
 * M.S. in Biochemistry, Sam Higginbottoms University (India), 2007
 * Ph.D in Bioinformatics & Systems Biology, University Of Delaware (US), 2017
 
 
-
-
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -110,4 +104,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
