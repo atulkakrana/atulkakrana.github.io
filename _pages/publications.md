@@ -16,4 +16,6 @@ author_profile: true
 {% endfor %} -->
 
 
-Please see research publications on my [Google Scholar profile](https://scholar.google.com/citations?user=virwGJEAAAAJ&hl=en&authuser=1). 
+The majority of my research (from 2018-2024) is done as part of innovation for Elsevier and Zifo. Please see the [Research Section](https://atulkakrana.github.io/portfolio/) for more information. 
+
+For my research before joining industry (2008-2017), please see my [Google Scholar](https://scholar.google.com/citations?user=virwGJEAAAAJ&hl=en&authuser=1) 
