@@ -16,7 +16,7 @@ redirect_from:
 4. [Education](#education)
 <br>
 <br>
-<hr style="border: 2px solid grey;">
+<hr style="border: 2px solid #aab7b8;;">
 
 ## Expertise
 **Leadership**
@@ -30,7 +30,7 @@ redirect_from:
 * Health Informatics (FHIR, OMOP, Epic, Practicefusion & more)
 <br>
 <br>
-<hr style="border: 2px solid grey;">
+<hr style="border: 2px solid #aab7b8;;">
 
 ## Industry Experience
 ### Head of Data Science – North America, Zifo
@@ -47,7 +47,7 @@ redirect_from:
   * RAG-based assistants, LLM-based predictive models for clinical & research, and 
   * Protein design models for in silico drug design; a combined $3.0M annual revenue 
 
-<hr style="border: 2px light grey;">
+<hr style="border: 1px light #bfc9ca;">
 
 ### Senior Data Scientist III – Life Sciences, Elsevier (Global)
 *Elsevier is a global information analytics business specializing in science and health*
@@ -58,7 +58,7 @@ redirect_from:
     * AI/ML lifecycle, governance, & MLOPS recommendations,
     * Leading a global team & reporting to C-level executives
 
-  <hr style="border: 2px light grey;">
+  <hr style="border: 1px light #bfc9ca;">
 
 ### Data Scientist & Manager - Health Analytics, Elsevier, PA (USA)
 *Elsevier is a global information analytics business specializing in science and health*
@@ -72,7 +72,7 @@ redirect_from:
     * built Elsevier's Health Knowledge graph, now part of [ClinicalKey](https://www.clinicalkey.com/)
 <br>
 <br>
-<hr style="border: 2px solid grey;">
+<hr style="border: 2px solid #aab7b8;;">
 
 ## Research Experience 
 ### Graduate Researcher - Delaware Biotechnology Institute, DE (USA)
@@ -81,21 +81,21 @@ redirect_from:
 * Led or managed projects, including with teams from Stanford and UPenn
 * Published 15+ peer-reviewed papers in areas of disease gene, biomarkers & RNA discovery
 
-<hr style="border: 2px light grey;">
+<hr style="border: 1px light #bfc9ca;">
 
 ### Project Incharge & Senior Researcher at National Institute for Biotechnology (IND)
 * Led research plans, execution for for World Bank-funded project (USD > 5M)
 * Developed Bioinformatic solution & discovered new biomarkers fulfilling the objectives
 * Recieved two patents for my research 
 
-<hr style="border: 2px light grey;">
+<hr style="border: 1px light #bfc9ca;">
 
 ### Information Technology Officer at National Institute of Plant Genome Research (IND)
 * Managed IT team & infrastructure to support institute-wide research projects
 * Served as staff Bioinformatics lead to develop research grants 
 <br>
 <br>
-<hr style="border: 2px solid grey;">
+<hr style="border: 2px solid #aab7b8;;">
 
 ## Education
 * **B.S.** Biotechnology, Bangalore University (India), 2005
