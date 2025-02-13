@@ -81,9 +81,9 @@ redirect_from:
 <br>
 
 ## Education
-* B.S. in Biotechnology, Bangalore University (India), 2005
-* M.S. in Biochemistry, Sam Higginbottoms University (India), 2007
-* Ph.D in Bioinformatics & Systems Biology, University Of Delaware (US), 2017
+* **B.S.** in Biotechnology, Bangalore University (India), 2005
+* **M.S.** in Biochemistry, Sam Higginbottoms University (India), 2007
+* **Ph.D** in Bioinformatics & Systems Biology, University Of Delaware (US), 2017
 
 
 <!-- Publications
