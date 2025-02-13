@@ -26,7 +26,6 @@ redirect_from:
 <br>
 
 ## Industry Experience 
-*[2018 - Current]*
 ### Head of Data Science – North America, Zifo
 *Zifo is global technology consulting firm for Biopharma & Health industry*
 
@@ -44,8 +43,8 @@ redirect_from:
 ### Senior Data Scientist III – Life Sciences, Elsevier (Global)
 *Elsevier is a global information analytics business specializing in science and health*
   * Led global AI/ML teams, supported executive leadership & product managers 
-  * Developed patient safety reporting solutions, >40% operational efficiency
-  * Developed LLM-based information extraction solution for drug safety & efficacy
+  * Developed patient safety reporting solutions, >40% operational efficiency for Embase(https://www.embase.com/)
+  * Developed LLM-based information extraction solutions for drug disovery, safety, & efficacy decisions; now part of [Pharmapendium](https://www.elsevier.com/products/pharmapendium) & [Embiology](https://www.elsevier.com/en-in/products/embiology)
   * Chaired enterprise-wide AI/ML guild to establish: 
     * AI/ML lifecycle, governance, & MLOPS recommendations,
     * Leading a global team & reporting to C-level executives
@@ -56,14 +55,13 @@ redirect_from:
   * Developed Computer Vision-based solutions for diagnostic pathways & decision support
   * Developed predictive solutions to:
     * identify "patients-at-risk"; improved effectiveness by up to 80%
-    * diagnose patient conditions to minimize clinical diagnostic errors; increased correct diagnoses >26%
+    * diagnose patient conditions to minimize clinical errors; increased correct diagnoses >26%
   * Developed NLP & Deep Learning systems for:
     * medical coding & information extraction from unstructured clinical data; 
-    * to build a Health Knowledge graph, now part of Elsevier’s ClinicalKey
+    * built a Health Knowledge graph, now part of Elsevier’s [ClinicalKey](https://www.clinicalkey.com/)
 <br>
 
 ## Research Experience 
-*[2007-2017]*
 ### Graduate Researcher - Delaware Biotechnology Institute, DE (USA)
 * Developed computational, statistics, machine-learning for genomic research
 * Identified 15+ biomarkers for genetic diseases and discovered a new class of RNAs
@@ -81,9 +79,9 @@ redirect_from:
 <br>
 
 ## Education
-* **B.S.** in Biotechnology, Bangalore University (India), 2005
-* **M.S.** in Biochemistry, Sam Higginbottoms University (India), 2007
-* **Ph.D** in Bioinformatics & Systems Biology, University Of Delaware (US), 2017
+* **B.S.** Biotechnology, Bangalore University (India), 2005
+* **M.S.** Biochemistry, Sam Higginbottoms University (India), 2007
+* **Ph.D** Bioinformatics & Systems Biology, University Of Delaware (US), 2017
 
 
 <!-- Publications
