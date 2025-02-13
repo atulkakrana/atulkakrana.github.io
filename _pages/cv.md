@@ -10,19 +10,20 @@ redirect_from:
 {% include base_path %}
 
 ### Table Of Contents
-1. [Area Of Expertise](#area-of-expertise)
-2. [Industry Experience](#industry-experience)
-3. [Research Experience](#research-experience)
-4. [Education](#education)
+1. [Industry Experience](#industry-experience)
+2. [Research Experience](#research-experience)
+3. [Education](#education)
+<br>
 
+## Competancies
+**Leadership**
+Strategic Planning, Project Management, Result-Oriented, Stakeholder Manager, Leadership Styles (Servant, Democratic & Coach)
 
-## Area Of Expertise
-**ML, Deep Learning, Generative AI, & Data Science for Health, Clinical, & Life Science Research.**
-* **Decision Sciences**: Predictive Modeling, Agentic-AI, Knowledge Graphs, etc.
-* **Digital Biology**: Generative biology, *In Silico* Discovery, Biomolecular Modeling, etc.
-* **Information Extraction**: NLP, LLMs, Explainable AI, etc.
-* **Data Management Frameworks**: data products, fabric, etc.
-* **Data & AIML Governance** 
+**AI/ML**
+* Generative AI & Biology (LLMs, RAG, Agents, LangChain, BioNemo, ESM, and more)
+* General AI/ML (TensorFlow, PyTorch, AWS SageMaker, OpenCV, and more)
+* Data Engineering (Data Products, Observability, and more)
+* Health Informatics (FHIR, OMOP, Epic, Practicefusion & more)
 <br>
 
 ## Industry Experience 
