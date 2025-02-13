@@ -19,7 +19,7 @@ redirect_from:
 
 <br>
 
-## Work experience
+## Work experience [2018 - Current]
 ### Head of Data Science – North America, Zifo
 *Zifo is global technology consulting firm for Biopharma & Health industry*
 
@@ -58,7 +58,7 @@ redirect_from:
 
 <br>
 
-## Previous Experience
+## Previous Experience [2007-2011]
 ### Graduate Researcher - Delaware Biotechnology Institute, DE (USA)
 * Developed computational, statistics, machine-learning for genomic research
 * Identified 15+ biomarkers for genetic diseases and discovered a new class of RNAs
