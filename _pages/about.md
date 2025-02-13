@@ -21,6 +21,11 @@ Atul received his Ph.D. from the Department of Computer and Information Sciences
 Atul has published 20+ reseach publications. His research is cited in reputed public news outlets including [NIH director's blog](https://directorsblog.nih.gov/2018/05/17/snapshots-of-life-lens-crafting/) and high impact research articles. Atul holds a Master's degree in Biochemistry and a Bachelor's degree in Biotechnology from India.
 
 
+**Team Building With My Daughter, Newark, DE (2024)**
 ![Always love going back to UD campus](../PXL_20240808_160932898-1739465506253.jpg)
+
+**Team building with NC Office Team Members, Cary, NC (2023)**
 ![Team Building](../PXL_20240208_011106855.PORTRAIT-1739465623534.jpg)
+
+**Bumping Into Old Friends, BiotechX, Philadelphia, PA (2024)**
 ![Meeting Old Friends](../PXL_20240917_223130061~2.jpg)
