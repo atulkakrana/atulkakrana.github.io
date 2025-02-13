@@ -16,4 +16,4 @@ author_profile: true
 {% endfor %} -->
 
 
-Please see my research publication on my [Google Scholar profile](https://scholar.google.com/citations?user=virwGJEAAAAJ&hl=en&authuser=1). 
+Please see research publications on my [Google Scholar profile](https://scholar.google.com/citations?user=virwGJEAAAAJ&hl=en&authuser=1). 
