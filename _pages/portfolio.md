@@ -42,7 +42,7 @@ My research group focuses on the convergence of computational biology, data scie
 
 The recent work from my group demonstrated the efficacy of a generative adversarial network (GAN) architecture, wherein a discriminator and generator are jointly trained to model the sequence-function landscape of anti-cancer peptides. This approach enables the de novo synthesis of candidate peptides exhibiting in silico predicted anti-cancer activity. This research contributes to the rapidly developing field of generative biologics, which integrates foundational biomolecular modeling with high-throughput robotic synthesis and screening to accelerate the discovery of therapeutic candidates. I presented our findings at the Pistoia Alliance (2024) meeting of biopharma executives. 
 
-![Pistoia Alliance](<../_portfolio/_images/Screenshot 2025-02-13 at 5.25.08 PM.png>)
+![Pistoia Alliance](../_portfolio/_images/Pistoia-Alliance.jpg)
 
 Extending the 
 
