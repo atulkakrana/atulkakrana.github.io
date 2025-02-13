@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br/>
-For a meeting, please book a 30-min, one-on-one slot [here](https://calendly.com/kakrana-1so0/30min).
+For a meeting, please book a 30-min, one-on-one slot [here](https://calendly.com/kakrana-1so0/30min){:target="_blank"}.
 
 <br/>
 [Atul](https://www.linkedin.com/in/atulkakrana/) is a strategic leader & AI/ML scientist at Zifo. He leads the innovation, industry partnerships, and business strategy for the North America region. 

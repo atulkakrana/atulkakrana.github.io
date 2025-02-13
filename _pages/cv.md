@@ -69,7 +69,7 @@ redirect_from:
     * diagnose patient conditions to minimize clinical errors; increased correct diagnoses >26%
   * Developed NLP & Deep Learning systems for:
     * medical coding & information extraction from unstructured clinical data; 
-    * built a Health Knowledge graph, now part of Elsevier’s [ClinicalKey](https://www.clinicalkey.com/)
+    * built Elsevier's Health Knowledge graph, now part of [ClinicalKey](https://www.clinicalkey.com/)
 <br>
 <br>
 <hr style="border: 2px solid grey;">
