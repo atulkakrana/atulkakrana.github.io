@@ -26,10 +26,9 @@ redirect_from:
 * General AI/ML (TensorFlow, PyTorch, AWS SageMaker, OpenCV, and more)
 * Data Engineering (Data Products, Observability, and more)
 * Health Informatics (FHIR, OMOP, Epic, Practicefusion & more)
-<br>
+<hr style="border: 2px solid black;">
 
 ## Industry Experience
----
 ### Head of Data Science – North America, Zifo
 *Zifo is global technology consulting firm for Biopharma & Health industry*
 
@@ -65,6 +64,7 @@ redirect_from:
     * built a Health Knowledge graph, now part of Elsevier’s [ClinicalKey](https://www.clinicalkey.com/)
 <br>
 
+----
 ## Research Experience 
 ### Graduate Researcher - Delaware Biotechnology Institute, DE (USA)
 * Developed computational, statistics, machine-learning for genomic research
@@ -82,6 +82,7 @@ redirect_from:
 * Served as staff Bioinformatics lead to develop research grants 
 <br>
 
+----
 ## Education
 * **B.S.** Biotechnology, Bangalore University (India), 2005
 * **M.S.** Biochemistry, Sam Higginbottoms University (India), 2007
