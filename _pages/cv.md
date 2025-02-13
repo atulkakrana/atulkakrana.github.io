@@ -28,7 +28,8 @@ redirect_from:
 * Health Informatics (FHIR, OMOP, Epic, Practicefusion & more)
 <br>
 
-## Industry Experience 
+## Industry Experience
+---
 ### Head of Data Science – North America, Zifo
 *Zifo is global technology consulting firm for Biopharma & Health industry*
 
