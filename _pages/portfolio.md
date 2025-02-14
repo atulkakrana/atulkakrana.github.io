@@ -45,7 +45,9 @@ The recent work from my group demonstrated the efficacy of a generative adversar
 Extending on our "generative biologics" work, we are exploring methods to design new drug candidates computationally, speeding up the drug discovery process. We focus on protein and chemical structure to improve **virtual screening and create entirely new molecules**. 
 
 ![In Silico Drug Development](../GENE_Program.png)
-
+<br>
+<br>
+<hr style="border: 2px solid #aab7b8;">
 
 ## Analytical AI
 My work on predictive modeling, decision science, and insights extraction focuses on improving health outcomes and operational efficiencies in large enterprises and manufacturing setups. I ( and my team members) build autonomous AI-based systems to diagnose patient conditions, predict drug safety events, and monitor health risks. 
@@ -61,7 +63,10 @@ Here is a snippet from my work (done in 2021 for Elsevier) to **predict drug saf
 We extend the principles of human health to process monitoring and recommendations, such as **monitoring real-time sensor data from manufacturing plants for predictive maintenance and process optimization**. In the example below, we apply LLMs and analytical models to stratify support tickets and assign them the correct categories and priority revelations to help achieve greater operation efficiencies for large organizations.
 
 ![BioMarin](../BioMarin.gif)
+<br>
+<br>
+<hr style="border: 2px solid #aab7b8;">
 
 
-
-## NLP & Language Modeling 
+## NLP & Language Modeling
+*To Add Here*
