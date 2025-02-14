@@ -50,13 +50,16 @@ Extending on our "generative biologics" work, we are exploring methods to design
 ## Analytical AI
 My work on predictive modeling, decision science, and insights extraction focuses on improving health outcomes and operational efficiencies in large enterprises and manufacturing setups. I ( and my team members) build autonomous AI-based systems to diagnose patient conditions, predict drug safety events, and monitor health risks. 
 
-Here is a snippet from my work on **differential diagnosis for patients (at Elsevier)**. The AI-based systems predict the conditions (including rare diseases ) based on patient health history with reasonable confidence. 
+Here is a snippet from my work on **differential diagnosis for patients (at Elsevier)**. The AI-based systems predict the conditions (including rare diseases ) based on patient health history with reasonable confidence.
+
 ![Dxter Results](../Dxter.png)
 
-Here is a snippet from my work (done in 2021) to **predict drug safety events** for patients based on their health records. ML algorithms used here were selected to maximize the explainability for regulatory compliance i.e. we chose simpler algorithms to maximize trustworthiness of decisions. 
+Here is a snippet from my work (done in 2021 for Elsevier) to **predict drug safety events for patients based on their health records**. ML algorithms used here were selected to maximize the explainability for regulatory compliance i.e. we chose simpler algorithms to maximize trustworthiness of decisions. 
+
 ![ICSR](../ICSR.png)
 
-We extend the principles of human health to process monitoring and recommendations, such as monitoring real-time sensor data from manufacturing plants for predictive maintenance and process optimization. In the example below, we apply LLMs and analytical models to stratify support tickets and assign them the correct categories and priority revelations to help achieve greater operation efficiencies for large organizations.
+We extend the principles of human health to process monitoring and recommendations, such as **monitoring real-time sensor data from manufacturing plants for predictive maintenance and process optimization**. In the example below, we apply LLMs and analytical models to stratify support tickets and assign them the correct categories and priority revelations to help achieve greater operation efficiencies for large organizations.
+
 ![BioMarin](../BioMarin.gif)
 
 
